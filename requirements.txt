@@ -1,0 +1,23 @@
+# =============================================================================
+# Reading Human Emotion Through Machine Eyes — Python dependencies
+# =============================================================================
+# Install:  pip install -r requirements.txt
+# =============================================================================
+
+# --- Core ML ---
+torch>=2.0.0
+transformers>=4.45.0
+vllm>=0.6.0
+
+# --- API clients ---
+openai>=1.0.0
+httpx>=0.27.0
+
+# --- Image processing ---
+Pillow>=10.0.0
+matplotlib>=3.7.0
+
+# --- Utilities ---
+numpy>=1.24.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0

@@ -1,0 +1,42 @@
+# =============================================================================
+# .gitignore for Reading Human Emotion Through Machine Eyes
+# =============================================================================
+
+# --- Secrets ---
+.env
+
+# --- Logs ---
+*.log
+script_execution_log.txt
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# --- Virtual environments ---
+venv/
+.venv/
+.conda/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Model cache (large binary files) ---
+hf_cache/
+
+# --- Data & Results (hosted separately on HuggingFace) ---
+data/
+results/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
