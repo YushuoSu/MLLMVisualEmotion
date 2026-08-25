@@ -154,10 +154,10 @@ The datasets and model outputs are publicly available on Hugging Face:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{su2025readinghumanemotion,
+@misc{su2025readinghumanemotion,
   title={Reading Human Emotion Through Machine Eyes},
-  author={Su, Yushuo and ...},
-  journal={...},
-  year={2025}
+  author={Su, Yushuo and others},
+  year={2025},
+  note={Under review}
 }
 ```
