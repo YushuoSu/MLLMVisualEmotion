@@ -156,7 +156,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @misc{su2025readinghumanemotion,
   title={Reading Human Emotion Through Machine Eyes},
-  author={Su, Yushuo and others},
+  author={Fang, Yiyang and Su, Yushuo and Huang, Wenke and Du, Bo and Ye, Mang},
   year={2025},
   note={Under review}
 }
